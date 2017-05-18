@@ -19,7 +19,7 @@ cask 'visual-studio-code'
 cask 'alfred'
 cask 'docker'
 cask 'vlc'
-cask 'iina'
+cask 'atom'
 cask 'onyx'
 cask 'rekordbox'
 cask 'appcleaner'
@@ -32,4 +32,3 @@ mas '1Password', id: 443987910
 mas 'Bandwidth+', id: 490461369
 mas 'Wunderlist', id: 410628904
 mas 'Evernote', id: 406056744
-mas 'Skitch (2.8)', id: 4259553366
