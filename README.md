@@ -1,13 +1,9 @@
 # dotfiles
-macのbrewfile
 
-```
-$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-$ git clone git@github.com:jnst/dotfiles.git
-$ cd dotfiles
-$ brew tap Homebrew/bundle
-$ brew bundle
-```
+## homebrew
 
-### 参考
-[http://jnst.hateblo.jp/entry/2016/09/30/051636]
+https://brew.sh/
+
+## vimium
+
+https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb
