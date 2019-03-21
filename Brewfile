@@ -2,6 +2,8 @@ tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
 brew "git"
+brew "bash-completion"
+brew "hub
 brew "go"
 brew "node"
 brew "yarn"
